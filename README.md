@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @theirisbugs
+- 👀 I’m interested in Cyber Security, Programming, Low Level Stuff And Especially How Things Works.
+- 🌱 I’m currently learning C, Python3, Web Security, Software Security, JavaScript. 
+- 💞️ I’m looking to collaborate on Anything particularly Related To My Interstings.
+- 📫 How to reach me 
