@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theirisbugs
-- 👀 I’m interested in Cyber Security, Programming, Low Level Stuff And Especially How Things Works.
-- 🌱 I’m currently learning React, Php, MySql. 
+- 👀 I’m interested in Cyber Security, Web/Soft Programming, Low Level Stuff And Especially How Things Works.
+- 🌱 I’m currently learning Web Dev (React, Php, MySql), and Soft dev (C, python3). 
 - 💞️ I’m looking to collaborate on Anything particularly Related To My Interstings.
 - 📫 How to reach me: theirisbugs@gmail.com, Instagram: @lhada_off, Twitter: @@theiRisBugs.
